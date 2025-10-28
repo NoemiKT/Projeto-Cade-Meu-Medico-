@@ -106,3 +106,6 @@ GET    /api/v1/health          - Health check da aplicação
 - [Postman Learning Center](https://learning.postman.com/)
 
 ---
+
+<img width="872" height="447" alt="image" src="https://github.com/user-attachments/assets/9f67c276-dfa2-4417-8eba-f68edff5ed0f" />
+
