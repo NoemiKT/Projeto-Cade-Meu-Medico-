@@ -4,6 +4,12 @@
 
 Desenvolver uma API REST para um sistema de busca de médicos por especialidade e localização. O sistema deve permitir que usuários encontrem profissionais de saúde em suas cidades, com informações sobre especialidades, avaliações e disponibilidade.
 
+## Alunos
+Noemi
+Massayoshi
+Mariana
+Nicolas
+
 ## Requisitos Técnicos
 
 ### Obrigatórios
